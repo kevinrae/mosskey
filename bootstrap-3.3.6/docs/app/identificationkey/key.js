@@ -9,5 +9,5 @@ function init() {
 function addCharacter() {
   var CharacterName = $(this).prop('id');
 //  alert(CharacterName);
-  $('#character-panel-ul-id').append('<li>'+CharacterName+'</li>');
+  $('#character-panel-ul-id').prepend('<li>'+CharacterName+'</li>');
 }
