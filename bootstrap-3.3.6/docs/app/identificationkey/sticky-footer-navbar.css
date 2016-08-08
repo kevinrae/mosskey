@@ -79,6 +79,12 @@ body > .container {
 .container .text-muted {
   margin: 20px 0;
 }
+ 
+.character-panel {
+  margin: 20px 0;
+  padding-right: 60px;
+  padding-left: 60px;
+}
 
 .footer > .container {
   padding-right: 15px;

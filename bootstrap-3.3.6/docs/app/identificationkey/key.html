@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Kevin Rae">
     <link rel="icon" href="../../favicon.ico">
 
     <title>Sticky Footer Navbar Template for Bootstrap</title>
@@ -36,6 +36,7 @@
     <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
+        
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -43,8 +44,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">MEKNAM</a>
+          <a class="navbar-brand" href="./index.html">MEKNAM</a>
         </div>
+        
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="./index.html">Home</a></li>
@@ -52,6 +54,7 @@
             <li><a href="./howto.html">How to</a></li>
             <li><a href="./about.html">About</a></li>
             <li><a href="./contact.html">Contact</a></li>
+            <!-- Remove example code
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -64,6 +67,7 @@
                 <li><a href="#">One more separated link</a></li>
               </ul>
             </li>
+            -->
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -74,9 +78,9 @@
       <div class="page-header">
         <h1>Multiple Entry Key to North American Mosses</h1>
       </div>
-      <p class="lead">Some placeholder text.</p>
+      <p class="lead">Some placeholder text...</p>
       <div class="dropdown">
-            <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/page.html"> Category <span class="caret"></span>
+            <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/page.html">Add a Character<span class="caret"></span>
             </a>
     		<ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
               <li class="dropdown-submenu">
@@ -134,8 +138,20 @@
               <li><a href="#">Another Category...</a></li>
             </ul>
       </div>
+    </div>
 
-
+    <div class="character-panel">
+      <div class="panel panel-default">
+      <!-- Panel Contents -->
+        <div class="panel-heading">Selected Characters</div>
+          <div class="panel-body">
+            <p>Some text...</p>
+          </div>
+      	  <!-- List group -->
+    	  <div class="list-group">
+  	    <!-- Dynamic character selections end up here -->
+          </div>
+      </div>
     </div>
 
     <footer class="footer">
