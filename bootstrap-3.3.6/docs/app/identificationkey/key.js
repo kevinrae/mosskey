@@ -1,8 +1,6 @@
 function init() {
   $('a.character').click( addCharacter );
-  $(document).on('click', '#character-panel-ul-id a.remove_character', function(){
-    $(this).parent().remove();
-  });
+  $(document).on('click', '#character-panel-ul-id a.remove_character', removeCharacter)
 }
 
 function addCharacter() {
@@ -11,7 +9,5 @@ function addCharacter() {
 }
 
 function removeCharacter() {
-  var CharacterName = $(this).prop('id');
-//  $("li[id=CharacterName]").remove();
-  alert(CharacterName);
+    $(this).parent().remove();
 }
