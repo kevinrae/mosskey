@@ -1,13 +1,17 @@
 function init() {
   $('a.character').click( addCharacter );
+  $(document).on('click', '#character-panel-ul-id a.remove_character', function(){
+    $(this).parent().remove();
+  });
 }
-
-//body > div.character-panel > div > div.panel-body > div > ul > li
-///html/body/div[2]/div/div[2]/div/ul
-//body > div.character-panel > div > div.panel-body > div > ul
 
 function addCharacter() {
   var CharacterName = $(this).prop('id');
-//  alert(CharacterName);
-  $('#character-panel-ul-id').prepend('<li>'+CharacterName+'</li>');
+  $('#character-panel-ul-id').prepend('<li id='+CharacterName+'>'+CharacterName+'<a class="remove_character" id='+CharacterName+' href="#">[X]</a></li>');
+}
+
+function removeCharacter() {
+  var CharacterName = $(this).prop('id');
+//  $("li[id=CharacterName]").remove();
+  alert(CharacterName);
 }
