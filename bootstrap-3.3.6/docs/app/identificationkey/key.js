@@ -4,6 +4,7 @@ function init() {
 }
 
 function addCharacter() {
+  // need to prevent populating the panel with duplicate entries.  Need magic logic for this.
   var CharacterName = $(this).prop('id');
   $('#character-panel-ul-id').prepend('<li id='+CharacterName+'>'+CharacterName+'<a class="remove_character" id='+CharacterName+' href="#">[X]</a></li>');
 }
