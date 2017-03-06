@@ -27,4 +27,5 @@ Requirements:
 - [ ] URL type handling logic - images vs. links.
 - [ ] taxa detail page needs more thought regarding format / content / layout
 - [ ] clicking back from taxa detail page loses state of character selection in the nav.  
+- [ ] Add list of matching keycharacters on taxa detail page.
 
