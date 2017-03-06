@@ -18,5 +18,9 @@ Requirements:
 - [x]  Both taxon rank & character navigation menus are stored within tree structures in the DB.  Modified preorder tree traversal algorithm is used to simplify SQL queries for working with this hiearachy model.
 - [x] Add links to google schema diagram.
 - [x] PHP will be used to get DB data via sql and results will be returned via jsonp to be used as javascript objects
-- [ ] Plan to use fontawesome icons for character info drilldowns.
-- [ ]  Need to cleanup git repo to remove extraneous files.
+- [x] Plan to use fontawesome icons for character info drilldowns. used glyphicons from bootstrap instead.
+- [ ] Need to cleanup git repo to remove extraneous files.
+- [ ] Build taxa detail .php driven sql query
+- [ ] Taxa detail .js
+- [ ] Null handling logic for missing url, authority fields
+
