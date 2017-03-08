@@ -22,12 +22,6 @@ Requirements:
 - [x] Build taxa detail .php driven sql query
 - [x] Taxa detail .js
 - [ ] Need to cleanup git repo to remove extraneous files.
-- [ ] Null handling logic for missing url, authority fields
-- [ ] taxa description field containing special characters ();/'" causes issues for php handler and returns NULL for this column.
-- [ ] URL type handling logic - images vs. links.
 - [ ] taxa detail page needs more thought regarding format / content / layout
-- [ ] clicking back from taxa detail page loses state of character selection in the nav.  
-- [ ] Add list of matching keycharacters on taxa detail page.
-- [ ] sql injection defense
-- [ ] display logic (& icons) for lense, eye, scope
+- [x] Add list of matching keycharacters on taxa detail page.
 - [ ] glossary of terms
