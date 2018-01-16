@@ -19,5 +19,13 @@ See Issues (https://github.com/kevinrae/mosskey/issues) tab on github
 
 
 ## How to startup application
-  * sudo /usr/local/mysql/support-files/mysql.server start
-  * chrome localhost
+```
+sudo /usr/local/mysql/support-files/mysql.server start
+chrome localhost
+```
+
+## How to backup & restore mysql db
+```
+mysqldump -u root -p --databases mosskey > mosskey_new_schema_v1_jan_16_2018.sql
+mysql -u root -p --database mosskey < mosskey_new_schema_v1_jan_16_2018.sql
+```
