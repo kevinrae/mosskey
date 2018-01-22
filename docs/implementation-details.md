@@ -16,7 +16,7 @@ Chrome was used during development.  Other browser compatibility has not been te
 Apache web server provides a place to run the server-side executables that provide formatting, function, and run database queries.  The apache wwwroot should be set to ./www in the git repo.
 
 ### C - Display Logic & Formatting
-HTML pages use bootstrap, jquery, and css templates for display logic and formatting.  The dropdown menu for character selection uses a [modified preorder tree traversal algorithm](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/).  Thus, **adding new characteristics to the key requires data updates for every row** in the KeyCharacter table for building the dropdown menus.  Fontawesome provides fancy icons.  Bootstrap helps with desktop vs. mobile and screen sizing issues.
+HTML pages use bootstrap, jquery, and css templates for display logic and formatting.  The dropdown menu for character selection uses a [modified preorder tree traversal algorithm](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/).  See parsetree function in build_menu.js.  Thus, **adding new characteristics to the key requires data updates for every row** in the KeyCharacter table for building the dropdown menus.  Fontawesome provides fancy icons.  Bootstrap helps with desktop vs. mobile and screen sizing issues.
 
 ### D - php
 php scripts are used to wrap / escape / format read-only sql queries against the db.  This provides separation / security from the display formatting.
