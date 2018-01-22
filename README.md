@@ -3,11 +3,11 @@ Multiple entry key for North American Mosses
 
 Prototype of moss identification key.
 
-Go here for app:  www
+Go here for app web dir:  www
 
-Schema Diagram: (https://docs.google.com/drawings/d/1hsYuWH6XhbKBrbOBh2Q-OVCEWxAa-OF5mJIrrtirZ84/edit)
+[Schema Diagram] (https://docs.google.com/drawings/d/1hsYuWH6XhbKBrbOBh2Q-OVCEWxAa-OF5mJIrrtirZ84/edit)
 
-Database schema created in MySQLWorkbench.  See (https://github.com/kevinrae/mosskey/tree/master/db-backups) for current backup.
+Database schema created in MySQLWorkbench.  [Current backup] (https://github.com/kevinrae/mosskey/tree/master/db-backups).
 
 3rd Party Software Requirements:
  * bootstrap 3.3.6+
@@ -16,7 +16,7 @@ Database schema created in MySQLWorkbench.  See (https://github.com/kevinrae/mos
  * apache 2.2.9
  
 ## Notes / To Do List
-See Issues (https://github.com/kevinrae/mosskey/issues) tab on github
+See [Issues] (https://github.com/kevinrae/mosskey/issues) above.
 
 
 ## How to startup application
