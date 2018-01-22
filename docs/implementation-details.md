@@ -1,5 +1,5 @@
 # Implementation Details
-The Moss Key is a simple web application but has several components which will be described in high level here.  Hopefully this will make it easier for others to understand the design and code decisions to add in maintenance down the road.
+The Moss Key is a simple web application but has several components which will be described in high level here.  Hopefully this will make it easier for others to understand the design and code decisions to aid in maintenance down the road.
 
 ## Architecture Components
 ```
