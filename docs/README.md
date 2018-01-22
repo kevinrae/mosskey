@@ -7,8 +7,10 @@ Data is stored in MySQL across several tables.  Refer to the [Schema Diagram](ht
 
 ## Architecture Components
 ```
-   A         B            C         D         E     F      G
- [User]>[Web Browser]>[Apache]>[javascript]>[php]>[sql]>[mysql]
+        A            B            C          D       E        F
+ [Web Browser] > [Apache] > [javascript] > [php] > [sql] > [mysql]
+                            [bootstrap]
+                            [fontawesome]  
 ```
 
 ## Dropdown Menu
