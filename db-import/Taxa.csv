@@ -1,0 +1,588 @@
+id,name
+2,Abietinella
+1,Abietinella abietina
+3,Acaulon
+5,Acroporium
+4,Acroporium smallii
+6,Aloina
+8,Alsia
+7,Alsia californica
+9,Amblyodon
+11,Amblystegium
+10,Amblystegium serpens
+12,Amblystegium varium
+13,Amphidium
+15,Anacamptodon
+14,Anacamptodon splachnoides
+16,Anacolia
+17,Andreaea
+18,Andreaeobryum
+19,Anoectangium
+21,Anomobryum
+20,Anomobryum concinnatum
+22,Anomodon julaceum
+25,Antitrichia
+23,Antitrichia californica
+24,Antitrichia curtipendula
+26,Aongstroemia
+27,Aphanorrhegma
+28,Aplodon
+29,Archidium
+30,Arctoa
+31,Aschisma
+32,Astomum
+33,Atrichum
+34,Aulacomnium
+36,Barbella
+35,Barbella pendula
+37,Barbula
+38,Bartramia
+39,Bartramidula
+40,Bartramiopsis
+42,Bestia
+41,Bestia longipes
+43,Blindia
+44,Brachelyma
+45,Brachelyma subulatum
+46,Brachydontium
+47,Brachymenium
+48,Brachytheciastrum
+49,Brachythecium
+51,Braunia
+50,Braunia secunda
+53,Brotherella
+52,Brotherella recurvans
+54,Bruchia
+56,Bryhnia
+55,Bryhnia novae-anfliae
+58,Bryoandersonia
+57,Bryoandersonia illecebra
+59,Bryobrittonia
+61,Bryocrumia
+60,Bryocrumia  vivecolor
+62,Bryoerythrophyllum
+63,Bryolawtonia
+64,Bryolawtonia vancouveriensis
+65,Bryoxiphium
+72,Bryum
+66,Bryum argenteum
+67,Bryum blindii
+68,Bryum calobryoides
+69,Bryum chryseum
+70,Bryum lanatum
+71,Bryum muticum
+73,Bryum veronense
+74,Buckiella
+75,Buckiella undulata
+76,Buxbaumia
+78,Callicladium
+77,Callicladium haldanianum
+80,Callicostella
+79,Callicostella pallida
+82,Calliergon
+81,Calliergon cordifolium
+84,Calliergonella
+83,Calliergonella cuspidata
+85,Calymperes
+86,Campylium
+87,Campylopodiella
+88,Campylopus
+89,Campylostelium
+90,Catoscopium
+91,Ceratodon
+93,Chryso-hypnum
+92,Chryso-hypnum diminutivum
+94,Cinclidium
+96,Cirriphyllum
+95,Cirriphyllum piliferum
+97,Claopodium
+99,Clasmatodon
+98,Clasmatodon parvulus
+100,Climacium
+102,Conardia
+101,Conardia compacta
+103,Conostomum
+104,Coscinodon
+105,Cratoneuron
+106,Crossidium
+107,Crumia
+109,Cryphaea
+108,Cryphaea ravenelii
+110,Ctenidium
+111,Cyclodictyon
+113,Cynodontium
+112,Cyclodictyon varians
+114,Cyrto-hypnum
+115,Cyrtomnium
+117,Dacrophyllium
+116,Dacrophyllium falcifolium
+119,Daltonia
+118,Daltonia splachnoides
+121,Dendroalsia
+120,Dendroalsia abietina
+122,Desmatodon
+123,Dichelyma
+124,Dichodontium
+125,Dicranella
+126,Dicranodontium
+127,Dicranoweisia
+128,Dicranum
+129,Didymodon
+130,Diphyscium
+131,Discelium
+132,Distichium
+133,Ditrichum
+135,Donnellia
+134,Donnellia commutata
+137,Donrichardsia
+136,Donrichardsia macroneuron
+141,Drepanocladus
+138,Drepanocladus simplicissimus
+139,Drepanocladus aduncus
+140,Drepanocladus polygamus
+143,Drummondia
+142,Drummondia prorepens
+144,Dryptodon
+145,Eccremidium
+146,Elodium
+147,Encalypta
+148,Entodon
+150,Entodontopsis
+149,Entodontopsis leucostega
+151,Entosthodon
+152,Ephemerum
+153,Epipterygium
+154,Epipterygium tozeri
+155,Erpodium
+156,Eucladium
+158,Eurhynchiastrum
+157,Eurhynchiastrum pulchellum
+159,Fabronia
+160,Fissidens
+161,Fontinalis
+163,Forsstroemia
+162,Forsstroemia producta
+164,Forsstroemia trichomitra
+165,Funaria
+166,Geheebia
+167,Gemmabryum badium
+168,Gemmabryum barnesii
+169,Gemmabryum brassicoides
+170,Gemmabryum caespiticium
+171,Gemmabryum californicum
+172,Gemmabryum demaretianum
+173,Gemmabryum dichotomum
+174,Gemmabryum gemmiferum
+175,Gemmabryum gemmilucens
+176,Gemmabryum klinggraeffii
+177,Gemmabryum kunzei
+178,Gemmabryum radiculosum
+179,Gemmabryum subapiculatum
+180,Gemmabryum tablemontensis
+181,Gemmabryum tehamense
+182,Gemmabryum tenuisetum
+183,Gemmabryum valparaisense
+184,Gemmabryum vinosum
+185,Gemmabryum violaceum
+186,Globulinella
+188,Gollania
+187,Gollania turgens
+224,Grimmia
+189,Grimmia alpestris
+190,Grimmia americana
+191,Grimmia anodon
+192,Grimmia anomala
+193,Grimmia arizonae
+194,Grimmia atrata
+195,Grimmia attenuata
+196,Grimmia caespiticia
+197,Grimmia donniana
+198,Grimmia elatior
+199,Grimmia elongata
+200,Grimmia funalis
+201,Grimmia hamulosa
+202,Grimmia hartmanii
+203,Grimmia incurva
+204,Grimmia laevigata
+205,Grimmia leibergii
+206,Grimmia lisae
+207,Grimmia longirostris
+208,Grimmia mariniana
+209,Grimmia milleri
+210,Grimmia montana
+211,Grimmia moxleyi
+212,Grimmia muehlenbeckii
+213,Grimmia nevadensis
+214,Grimmia olneyi
+215,Grimmia orbicularis
+216,Grimmia ovalis
+217,Grimmia pilifera
+218,Grimmia plagiopodia
+219,Grimmia poecilostoma
+220,Grimmia pulvinata
+221,Grimmia ramondii
+222,Grimmia serrana
+223,Grimmia sessitana
+225,Grimmia torenii
+226,Grimmia torquata
+227,Grimmia trichophylla
+228,Grimmia unicolor
+229,Groutiella
+230,Gymnostomiella
+231,Gymnostomum
+232,Gyroweisia
+233,Hamatocaulis
+234,Haplocladium
+236,Haplohymenium
+235,Haplohymenium triste
+238,Hedwigia
+237,Hedwigia ciliata
+239,Helodium
+240,Henicodium
+241,Hennediella
+242,Herpetineuron
+243,Herpetineuron toccae
+246,Herzogiella
+244,Herzogiella adscendens
+245,Herzogiella seligeri
+247,Herzogiella striatella
+248,Herzogiella turfacea
+252,Heterocladium
+249,Heterocladium dimorphum
+250,Heterocladium macounii
+251,Heterocladium procurrens
+253,Heterophyllium
+254,Heterophyllum affine
+255,Homalia
+256,Homalia trichomanoides
+258,Homaliadelphus
+257,Homaliadelphus sharpii
+259,Homalotheciella
+260,Homalotheciella subcapillata
+261,Homalothecium
+262,Homomallium
+263,Hookeria
+264,Hygohypnum
+265,Hygroamblystegium
+266,Hygroamblystegium tenax
+269,Hylocomiastrum
+268,Hylocomiastrum pyrenaicum
+267,Hylocomiastrum umbratum
+270,Hylocomium
+271,Hylocomium splendens
+272,Hymenostylium
+273,Hyophila
+274,Hypnum
+275,Hypopterygium
+276,Indusiella
+278,Isopterygiopsis
+277,Isopterygiopsis muelleriana
+279,Isopterygium
+280,Isopterygium tenerum
+282,Isothecium
+281,Isothecium myosuroides
+284,Iwatsukiella
+283,Iwatsukiella leucotricha
+286,Jaegerina
+285,Jaegerina scariosa
+287,Jaffueliobryum
+288,Kiaeria
+289,Kindbergia
+291,Lepidopilum
+290,Lepidopilum polytrichoides
+292,Leptobryum
+294,Leptodictyum
+293,Leptodictyum riparium
+296,Leptodon
+295,Leptodon smithii
+297,Leptodontium
+299,Leptohymenium
+298,Leptohymenium sharpii
+300,Leptopterigynandrum
+301,Lescuraea
+302,Leskea
+304,Leskeella
+303,Leskeella nervosa
+305,Leucobryum
+306,Leucodon
+308,Leucolepis
+307,Leucolepis acanthoneura
+310,Limbella
+309,Limbella fryei
+311,Limprichtia
+314,Lindbergia
+313,Lindbergia brachyptera
+312,Lindbergia mexicana
+316,Loeskeobryum
+315,Loeskeobryum brevirostre
+317,Loeskypnum
+318,Loeskypnum badium
+319,Lorentziella
+320,Luisierella
+321,Lyellia
+322,Macrocoma
+324,Macromitrium
+323,Macromitrium richardii
+325,Meesia
+327,Metaneckera
+326,Metaneckera menziesii
+328,Microbryum
+329,Micromitrium
+330,Mielichhoferia
+331,Mnium
+332,Molendoa
+334,Myrinia
+333,Myrinia pulvinata
+337,Myurella
+335,Myurella julacea
+336,Myurella siberica
+338,Myurella tenerrima
+340,Myuroclada
+339,Myuroclada maximowiczii
+342,Neckera
+341,Neckera menziesii
+343,Neckeropsis
+344,Neohyophila
+346,Neomacounia
+345,Neomacounia nitida
+347,Nititrichia
+349,Nogopterium
+348,Nogopterium gracile gracile
+350,Octoblepharum
+351,Oedipodium
+352,Oligotrichum
+353,Oncophorus
+354,Oreas
+355,Orthodontium
+356,Orthothecium
+411,Orthotrichum
+357,Orthotrichum affine
+358,Orthotrichum alpestre
+359,Orthotrichum anodon
+360,Orthotrichum anomalum
+361,Orthotrichum bartramii
+362,Orthotrichum bolanderi
+363,Orthotrichum columbicum
+364,Orthotrichum comosum
+365,Orthotrichum confusum
+366,Orthotrichum consimile
+367,Orthotrichum coulteri
+368,Orthotrichum cucullatum
+369,Orthotrichum cupulatum
+370,Orthotrichum diaphanum
+371,Orthotrichum elegans
+372,Orthotrichum euryphyllum
+373,Orthotrichum exiguum
+374,Orthotrichum fenestratum
+375,Orthotrichum flowersii
+376,Orthotrichum franciscanum
+377,Orthotrichum gymnostomum
+378,Orthotrichum hallii
+379,Orthotrichum handiense
+380,Orthotrichum holzingeri
+381,Orthotrichum keeverae
+382,Orthotrichum kellmanii
+383,Orthotrichum laevigatum
+384,Orthotrichum lescurii
+385,Orthotrichum lyellii
+386,Orthotrichum macounii
+387,Orthotrichum mazimpakanum
+388,Orthotrichum norrisii
+389,Orthotrichum obtusifolium
+390,Orthotrichum ohioense
+391,Orthotrichum pallens
+392,Orthotrichum papillosum
+393,Orthotrichum parvulum
+394,Orthotrichum patens
+395,Orthotrichum pellucidum
+396,Orthotrichum persimile
+397,Orthotrichum pilosissimum
+398,Orthotrichum praemorsum
+399,Orthotrichum pulchellum
+400,Orthotrichum pumilum
+401,Orthotrichum pusillum
+402,Orthotrichum pycnophyllum
+403,Orthotrichum pylaisii
+404,Orthotrichum rivulare
+405,Orthotrichum rupestre
+406,Orthotrichum scanicum
+407,Orthotrichum schimperi
+408,Orthotrichum shawii
+409,Orthotrichum shevockii
+410,Orthotrichum sordidum
+412,Orthotrichum speciosum
+413,Orthotrichum spjutii
+414,Orthotrichum stellatum
+415,Orthotrichum stramineum
+416,Orthotrichum strangulatum
+417,Orthotrichum striatum
+418,Orthotrichum tenellum
+419,Orthotrichum texanum
+420,Orthotrichum underwoodii
+421,Orthotrichum xxA
+422,Orthotrichum xxB
+423,Orthotrichum xxC
+424,Orthotrichum yosemitensis
+425,Oxystegus
+427,Palamocladium
+426,Palamocladium leskeoides
+428,Paludella
+429,Palustriella
+431,Papillaria
+430,Papillaria nigrescens
+432,Paraleptodontium
+433,Paraleucobryum
+434,Phascum
+435,Philonotis
+436,Physcomitrella
+437,Physcomitrium
+438,Pireella
+439,Plagiobryum
+440,Plagiomnium
+441,Plagiopus
+442,Plagiothecium
+443,Platydictya
+444,Platygyrium
+446,Platyhypnidium
+445,Platyhypnidium riparioides
+448,Platylomella
+447,Platylomella lescurii
+449,Plaubella
+450,Pleuridium
+451,Pleurochaete
+453,Pleuroziopsis
+452,Pleuroziopsis ruthenica
+454,Pleurozium schreberi
+455,Pleurozium
+456,Pogonatum
+457,Pohlia
+458,Polytrichastrum
+459,Polytrichum
+461,Porotrichum
+460,Porotrichum bigelovii
+463,Pottia
+462,Pottia (Microbryum)
+465,Pseudobraunia
+464,Pseudobraunia californica
+466,Pseudobryum
+467,Pseudocalliergon
+468,Pseudocalliergon turgescens
+469,Pseudocrossidium
+471,Pseudocryphaea
+470,Pseudocryphaea domingensis
+472,Pseudoditrichum
+473,Pseudoephemerum
+474,Pseudoleskea
+476,Pseudoleskeella
+475,Pseudoleskeella tectorum
+478,Pseudoscleropodium
+477,Pseudoscleropodium purum
+479,Pseudotaxiphyllum
+480,Psilopilum
+482,Pterigynandrum
+481,Pterigynandrum filiforme
+483,Pterygoneurum
+485,Ptilium
+484,Ptilium crista-castrensis
+486,Ptychomitrium
+487,Pylaisiadelpha
+488,Pylaisiadelpha tenuirostris
+489,Pylaisiella
+490,Pyramidula
+491,Pyrrhobryum
+492,Pyrrhobryum spiniforme
+493,Racomitrium
+494,Racopilum
+495,Racopilum tomentosum
+496,Rauiella
+497,Rhabdoweisia
+498,Rhacithecium
+499,Rhexophyllum
+500,Rhizomnium
+501,Rhodobryum
+502,Rhynchostegium
+505,Rhytidiadelphus
+503,Rhytidiadelphus japonicus
+504,Rhytidiadelphus loreus
+506,Rhytidiadelphus squarrosus
+507,Rhytidiadelphus triquetris
+509,Rhytidiopsis
+508,Rhytidiopsis robusta
+511,Rhytidium
+510,Rhytidium rugosum
+512,Roellia
+513,Saelania
+514,Sanionia
+516,Sarmenthypnum
+515,Sarmenthypnum saementosum
+517,Schistidium
+518,Schistostega
+520,Schlotheimia
+519,Schlotheimia rugifolia
+521,Schwetschkeopsis 
+522,Schwetschkeopsis fabronia
+523,Sciuro-hypnum
+524,Scleropodium
+525,Sclotheimia
+526,Scopelophila
+528,Scorpidium
+527,Scorpidium scorpioides
+529,Scouleria
+530,Seligeria
+531,Sematophyllum
+532,Sphagnum
+533,Splachnobryum
+534,Splachnum
+536,Steerecleus
+535,Steerecleus serrulatus
+537,Stegonia
+540,Stereophyllum
+538,Stereophyllum leucostegum
+539,Stereophyllum radiculosum
+541,Straminergon
+542,Straminergon stramineum
+543,Symblepharis
+544,Syntrichia
+545,Syrrhopodon
+547,Taxiphyllum
+546,Taxiphyllum cuspidifolium
+549,Taxithelium
+548,Taxithelium planum
+550,Tayloria
+551,Tetradontium
+552,Tetraphis
+553,Tetraplodon
+554,Tetrodontium
+555,Thamnobryum
+556,Thelia
+557,Thuidium
+558,Timmia
+559,Timmiella
+560,Tomenthypnum
+561,Tortella
+562,Tortula
+564,Trachybryum
+563,Trachybryum megaptilum
+565,Trachycystis
+566,Trachyxiphium
+567,Trachyxiphiun heteroicum
+568,Trematodon
+569,Trichodon
+570,Trichostomopsis
+571,Trichostomum
+572,Tripterocladium
+574,Triquetrella
+573,Triquetrella californica
+575,Tuerkheimia
+576,Ulota
+577,Venturiella
+578,Vesicularia
+579,Vesicularia vesicularis
+580,Voitia
+581,Warnstorfia
+582,Weissia
+584,Wijkia
+583,Wijkia carlottae
+586,Zelometeorium
+585,Zelometeorium patulum
+587,Zygodon

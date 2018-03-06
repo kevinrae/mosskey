@@ -30,6 +30,6 @@ cd (Project)/db-import
 mysql -u root -p --database mosskey 
 \W
 load data local infile 'KeyCharacter.csv' into table KeyCharacter fields terminated by ',' enclosed by '"' lines terminated by '\n' ignore 1 lines (id, name, lft, rht, description, anchortext, urlid, iseye, ishandlens, isscope);
-load data local infile 'Taxa.csv' into table Taxa fields terminated by ',' enclosed by '"' lines terminated by '\n' ignore 1 lines (id, name);
+load data local infile 'Taxa.csv' into table Taxa fields terminated by ',' enclosed by '"' lines terminated by '\r' ignore 1 lines (id, name);
 load data local infile 'Map.csv' into table Map fields terminated by ',' enclosed by '"' lines terminated by '\n' ignore 1 lines (taxaid, keycharacterid);
 ```
