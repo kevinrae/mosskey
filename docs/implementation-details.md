@@ -3,10 +3,10 @@ The Moss Key is a simple web application but has several components which will b
 
 ## Architecture Components
 ```
-        A            B                C          D       E        F
- [Web Browser] > [www server] > [javascript] > [php] > [sql] > [mysql]
-                                [bootstrap]
-                                [fontawesome]  
+        A            B            C             D        E         F
+ [Web Browser] -> [apache] -> [javascript] -> [php] -> [sql] -> [mysql]
+                              [jquery]
+                              [bootstrap]  
 ```
 
 ### A - Web Browser
