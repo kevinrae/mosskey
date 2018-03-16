@@ -3,10 +3,10 @@ The Moss Key is a simple web application but has several components which will b
 
 ## Architecture Components
 ```
-        A            B                C          D       E        F
- [Web Browser] > [www server] > [javascript] > [php] > [sql] > [mysql]
-                                [bootstrap]
-                                [fontawesome]  
+        A            B            C             D        E         F
+ [Web Browser] -> [apache] -> [javascript] -> [php] -> [sql] -> [mysql]
+                              [jquery]
+                              [bootstrap]  
 ```
 
 ### A - Web Browser
@@ -25,7 +25,7 @@ php scripts are used to wrap / escape / format read-only sql queries against the
 Parametrized sql is run from within the php files.  Results are usually wrapped in json.
 
 ## F - MySQL
-Data is stored in MySQL across several tables.  Refer to the [Schema Diagram](https://docs.google.com/drawings/d/1hsYuWH6XhbKBrbOBh2Q-OVCEWxAa-OF5mJIrrtirZ84/edit) for specifics.  Initial schema was created using MySQL Workbench and we can highly recommend this useful tool.
+Data is stored in MySQL across several tables.  Refer to the [Schema Diagram](https://github.com/kevinrae/mosskey/blob/DB-schema-documentation/docs/mosskey-db-schema-model.pdf) for specifics.  Initial schema was created using MySQL Workbench and we can highly recommend this useful tool.
 
 
 ## Design Considerations
